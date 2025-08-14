@@ -1,4 +1,3 @@
-<script>
 window._new = {
   create: {
     div: function(divName) {
@@ -40,4 +39,3 @@ window._new = {
     }
   }
 };
-</script>
